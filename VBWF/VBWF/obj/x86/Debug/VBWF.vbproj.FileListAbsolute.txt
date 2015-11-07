@@ -16,3 +16,12 @@ C:\Users\Alejandro\Desktop\VB Testing\VBWF\VBWF\bin\Debug\VBWF.xml
 C:\Users\Alejandro\Desktop\VB Testing\VBWF\VBWF\obj\x86\Debug\VBWF.Form1.resources
 C:\Users\Alejandro\Desktop\VB Testing\VBWF\VBWF\obj\x86\Debug\VBWF.Resources.resources
 C:\Users\Alejandro\Desktop\VB Testing\VBWF\VBWF\obj\x86\Debug\VBWF.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.exe
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.xml
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.pdb
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\bin\Debug\VBWF.exe
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\bin\Debug\VBWF.pdb
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\bin\Debug\VBWF.xml
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.Form1.resources
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.Resources.resources
+C:\Users\Alejandro\Desktop\VB Testing\GithubVB\VBWF\VBWF\obj\x86\Debug\VBWF.vbproj.GenerateResource.Cache
