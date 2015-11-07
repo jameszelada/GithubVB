@@ -9,4 +9,9 @@
         Dim variable As String = "Jaime"
         MessageBox.Show("Another Change " + variable)
     End Sub
+
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
+        Dim variable As String = "Jaime"
+        MessageBox.Show("The last change " + variable)
+    End Sub
 End Class
