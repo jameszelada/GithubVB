@@ -10,7 +10,7 @@
         MessageBox.Show("Another Change " + variable)
     End Sub
 
-    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs)
         Dim variable As String = "Jaime"
         MessageBox.Show("The last change " + variable)
     End Sub
